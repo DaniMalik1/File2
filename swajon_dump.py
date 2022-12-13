@@ -1,3 +1,3 @@
 import sd
-sd.swajon_menu()
+sd.danimalik1_menu()
  
